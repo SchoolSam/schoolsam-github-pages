@@ -1,4 +1,4 @@
---- Hello.
-title: Welcome to my blog
+Hello.
+Welcome to my blog
 ---
 I am a blop.
