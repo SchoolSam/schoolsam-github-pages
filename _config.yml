@@ -2,3 +2,26 @@ theme: minima
 title: Sam's Land
 author: Sam
 description: Give me money, nvm, this is a school assignment...
+<!-- Example code for an 'about' page -->
+
+<html>
+
+<head>
+
+<h2>About</h2>
+
+</head>
+
+<body>
+
+ 
+
+<p>This is where you tell the world how awesome you are.</p>
+
+ 
+
+</body>
+
+ 
+
+</html>
