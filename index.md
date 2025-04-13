@@ -4,7 +4,7 @@
 
 <head>
 
-<h2>About</h2>
+<h2>Samuel McGinnis About me</h2>
 
 </head>
 
